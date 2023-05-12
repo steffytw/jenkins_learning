@@ -1,4 +1,4 @@
-# jenkins_learning
+# jenkins
 
 
 ## Declarative Pipeline fundamentals
